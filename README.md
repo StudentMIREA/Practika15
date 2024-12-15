@@ -20,4 +20,6 @@
 
 ![Снимок экрана 2024-12-16 003754](https://github.com/user-attachments/assets/5440ed11-d749-4b4d-9861-34958ae2efcc)
 
-### 
+### Конечный результат.
+
+![Screenshot_20241216_003832_One UI Home](https://github.com/user-attachments/assets/18d6ec80-894f-4f2f-a8e2-87776535980b)
