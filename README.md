@@ -10,6 +10,8 @@
 
 <img src="https://github.com/user-attachments/assets/4624fe95-84b1-4528-b089-72e471f3ad3e" width="700">
 
+<img src="https://github.com/user-attachments/assets/d5bebbbd-a326-4cd5-ad5b-48da8eb4f314" width="700">
+
 #### 2. Добавляем иконку. 
 Переходим в папку android/app/src/main/res и добавляем туда скаченные файлы.
 
@@ -22,5 +24,4 @@
 
 ### Конечный результат.
 
-<img src="https://github.com/user-attachments/assets/18d6ec80-894f-4f2f-a8e2-87776535980b" width="300">
-
+<img src="https://github.com/user-attachments/assets/fb9ca909-967c-493b-838b-76b753497149" width="300">
