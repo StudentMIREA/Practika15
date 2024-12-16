@@ -23,3 +23,4 @@
 ### Конечный результат.
 
 <img src="https://github.com/user-attachments/assets/18d6ec80-894f-4f2f-a8e2-87776535980b" width="300">
+<img src="https://github.com/user-attachments/assets/f0fb9447-333b-4ed6-9ea3-ee710a2bd441" width="300">
